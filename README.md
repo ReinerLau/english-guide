@@ -24,6 +24,7 @@
 - https://www.bilibili.com/video/BV1gq4y1o7bL
 - Trancy
 - 每日英语听力
+- Anki
 
 ## Enjoy
 
